@@ -1,0 +1,1412 @@
+CELLULAR TRANSPORT
+SBMS1440 (2022/23)
+Cell and Molecular Biology in Biomedical Engineering
+
+FENG Bo
+School of Biomedical Sciences
+Email: fengbo@cuhk.edu.hk; Tel: 3943 1455
+1
+
+Nucleus
+Plasma membrane
+
+Organelles
+Cytoskeleton
+in cytosol
+
+Figure 4-5, Becker’s World of the Cell, Eighth Edition
+
+2
+
+Biological membrane defines boundaries of
+cells and organelles
+▪ Biological membranes consist of a mosaic of proteins in a fluid lipid bilayer
+▪ These membrane proteins and lipids are amphipathic, forming up
+permeability barriers of cells and organelles
+
+– Polar, Hydrophilic
+– Non-polar, Hydrophobic
+– Polar, Hydrophilic
+
+Figure 4-9, Beckers’ World of the Cell, Eighth Edition
+
+3
+
+Transport is central to cell function
+▪ Selective transport is a
+central aspect of cell
+function.
+
+▪ Specific molecules and ions
+need to be selectively
+moved into and out of the
+cell or organelles.
+▪ Overcoming the
+permeability barrier of cell
+membranes is crucial to
+proper functioning of the
+cell.
+Figure 8-1, Becker’s World of the Cell, Eighth Edition
+
+4
+
+Outline
+1. Membrane transport (transport across
+membranes)
+2. Vesicular transport (membrane trafficking)
+
+3. *Purification of cellular organelles
+4. *Ectopic expression & protein targeting
+
+5
+
+❑ Basic concepts
+❑ Types of transport & examples in erythrocyte
+▪
+▪
+▪
+
+Simple diffusion
+Facilitated diffusion
+Active transport
+6
+
+Solutes cross membranes by three
+mechanisms
+• Solutes cross membranes by simple diffusion, facilitated
+diffusion, and active transport.
+• The movement of a molecule that has no net charge is
+determined by its concentration gradient.
+
+• Simple or facilitated diffusion involve exergonic movement
+“down” the concentration gradient, they are passive
+transport
+• Active transport involves endergonic movement “up” the
+concentration gradient
+7
+
+The erythrocyte plasma membrane:
+examples of transport mechanisms
+
+Figure 8-2, Becker’s World of the Cell, Eighth Edition
+
+8
+
+Simple Diffusion
+❑ Simple diffusion is the unassisted movement of a solute
+from higher to lower concentration, toward equilibrium.
+❑ Typically, this is only possible for gases, nonpolar molecules,
+or small polar molecules such as water, glycerol, or ethanol
+▪
+
+O2 and CO2
+
+▪
+
+Osmosis
+
+9
+
+Transport of O2 & CO2 by erythrocytes
+▪ Erythrocytes take up oxygen in the lungs, where oxygen concentration is
+high; and release it in the body tissues, where oxygen concentration is low
+▪ At the same time, erythrocytes take up carbon dioxide in the body
+tissues, and release it in the lungs, following the concentration gradient.
+▪ Oxygen and carbon dioxide gas traverses the lipid bilayer readily by
+simple diffusion
+
+In lungs
+O2
+
+O2
+
+O2
+
+O2
+
+O2
+O2
+
+CO2
+
+CO2
+
+O2
+
+O2
+
+CO2
+
+CO2
+
+O2
+
+O2
+
+O2
+
+O2
+
+CO2
+CO2
+
+CO2
+
+CO2
+O2
+
+O2
+
+O2
+
+CO2
+
+O2
+
+CO2
+
+O2
+
+CO2
+
+O2
+
+O2
+
+CO2
+CO2
+
+CO2
+
+CO2
+CO2
+
+CO2
+
+CO2
+CO2
+
+O2
+
+O2
+
+CO2
+
+In body tissues
+
+O2
+
+CO2
+
+O2
+CO2
+
+O2
+
+CO2
+
+10
+Modified from Figure 8-3, Becker’s World of the Cell, Eighth Edition
+
+Osmosis
+▪
+
+Water molecules are uncharged; water
+concentration is appreciably equal on
+opposite sides of a membrane
+
+▪
+
+Osmosis is the diffusion of water across a
+selectively permeable membrane
+
+▪
+
+If two solutions are separated by a
+selectively permeable membrane,
+permeable to the water but not the solutes,
+the water will move toward the region of
+higher solute concentration. This movement
+is called osmosis
+
+▪
+
+Diffusion of solute
+
+Osmosis
+
+For most cells, water tends to move inward
+
+Figure 8-4, Becker’s World of the Cell, Eighth Edition
+
+11
+
+Osmotic pressure
+Osmotic pressure is the minimum pressure which needs to be applied to a solution to
+prevent the inward flow of water across a semipermeable membrane.
+
+Figure 8-8, Becker’s World of the Cell, Eighth Edition
+
+12
+
+Facilitated Diffusion
+❑ Protein-mediated movement down the gradient
+❑ The process is exergonic; no energy is needed
+▪
+
+By Carrier Protein
+▪
+▪
+
+▪
+
+Transport of glucose
+Exchange of Cl– and HCO3– ions
+
+By Channel Protein
+▪
+▪
+▪
+
+Ion channel
+Porin
+Aquaporin
+13
+
+Facilitated diffusion by transport proteins
+• Transport proteins are large, integral membrane
+proteins with multiple transmembrane segments,
+providing a path through the lipid bilayer, allowing the
+“downhill” movement of a polar or charged solute
+• Carrier proteins
+
+• Channel proteins
+
+14
+
+Carrier Proteins
+Carrier proteins are analogous to enzymes
+❑ The carrier-facilitated diffusion involves binding of a carrier protein and a specific
+substrate (s) on a specific solute binding site, to form a carrier-solute intermediate
+❑ A carrier protein is allosteric protein and alternates between two conformational
+states
+❑ Carrier proteins (transporters or permeases) bind solute molecules on one side of a
+membrane, undergo a conformation change, and release the solute on the other
+side of the membrane
+❑ After conformational change, the “product” is released (the transported solute)
+❑ Carrier proteins can become saturated as the concentration of the solute rises; the
+transport by Carrier protein is reversible
+❑ Carrier proteins are regulated by external factors
+❑ Competitive inhibition of carrier proteins can occur in the presence of molecules
+or ions that are structurally related to the correct substrate
+15
+
+Different carrier proteins
+•
+
+•
+
+•
+
+•
+
+A carrier protein that transports a single solute across the membrane is
+called a uniporter
+When two solutes are transported simultaneously, and their transport is
+coupled, the process is called coupled transport
+Transporters that transfer
+two solutes across a
+membrane in the same
+direction, are referred to
+as symporters
+Transporters that transfer
+two solutes across a
+membrane in the same
+direction, are referred to
+as antiporters
+
+Figure 8-6, Becker’s World of the Cell, Eighth Edition
+
+16
+
+The erythrocyte glucose transporter
+(GLUT1) is a uniport carrier for glucose
+
+Glucose transporter (GLUT; GLUT1 in erythrocytes)
+Figure 8-7, Becker’s World of the Cell, Eighth Edition
+
+17
+
+Transport by GLUT1 is reversible
+• A carrier protein can facilitate transport in either
+direction
+• The direction of transport is dictated by the relative
+solute concentrations outside and inside the cell
+• Glucose concentration is kept low inside in
+erythrocyte and most other animal cells
+18
+
+The erythrocyte anion exchange protein:
+an antiport carrier
+•
+•
+•
+
+The anion exchange protein (also called the chloride-bicarbonate
+exchanger) facilitates reciprocal exchange of Cl– and HCO3– ions only
+The ions are exchanged in a strict 1:1 ratio
+Exchange will stop if either anion is absent
+
+19
+
+Biological relevance of anion exchange
+•
+
+•
+
+•
+•
+
+In tissues, waste CO2 diffuses into
+the erythrocytes where it is
+converted to HCO3– by the enzyme
+carbonic anhydrase
+As the concentration of bicarbonate
+rises it moves out of the cell,
+coupled with uptake of Cl– to
+prevent a net charge imbalance
+In the lungs, the entire process is
+reversed
+The chloride shift regulates pH in
+erythrocytes, which further regulate
+the affinity of hemoglobin for
+oxygen.
+
+In tissues
+
+In lung
+
+20
+
+Channels
+•
+
+Channel proteins form hydrophilic transmembrane channels through the
+membrane, to provide a passage route for specific solutes to cross the
+membrane directly
+
+•
+
+There are three types of channels: ion channels, porins, and aquaporins
+
+•
+
+Some channels are large and nonspecific,
+–
+
+such as the pores on the outer membranes of bacteria, mitchondria, and
+chloroplasts
+
+–
+
+They are formed by multipass transmembrane proteins called porins that allow
+passage of solutes up to a certain size (600D)
+
+•
+
+Most channels are smaller and highly selective.
+
+•
+
+The movement of solutes through channels is much faster than transport
+by carrier proteins. This is likely because conformation changes are not
+required.
+
+21
+
+Structure of porins
+•
+
+The transmembrane segments of porins cross the membrane as b barrels
+
+•
+
+The b barrel has a water-filled pore at its center
+
+•
+
+Polar side chains line the inside of the pore, allowing passage of many
+hydrophilic solutes (non-specific)
+
+•
+
+The outside of the barrel contains many nonpolar side chains that interact with
+the hydrophobic interior of the membrane
+
+•
+
+They are present in the outer membrane of bacteria, mitochondria, and
+chloroplasts.
+
+Figure 8-8, Becker’s World of the Cell, Eighth Edition
+
+22
+
+Aquaporin structure
+•
+
+All aquaporins are tetrameric integral
+membrane proteins
+
+•
+
+Four identical monomers associate with their
+transmembrane segments to form four central
+channels
+
+•
+
+The “channels”, lined with hydrophilic side
+chains, are just large enough for water
+molecules to pass through one at a time
+
+•
+
+It was present in kidney tubules and red blood
+cells.
+
+•
+
+Genetic defects involving aquaporin genes
+have been associated with several human
+kidney diseases.
+
+Figure 8-9, Becker’s World of the Cell, Eighth Edition
+
+23
+
+Ion channels
+•
+
+Smaller channels that are involved in ion transport are called ion
+channels
+
+•
+
+Ion channels are transmembrane proteins that form with tiny
+pores lined with hydrophilic atoms
+
+•
+
+They are remarkably selective. Most allow passage of just one
+type of ions. there are separate proteins needed to transport
+Na+, K+, Ca2+, and Cl–, etc.
+
+•
+
+Selectivity is based on both binding sites involving amino acid
+side chains, and a size filter
+
+•
+
+They allow rapid passage of specific Ions
+
+24
+
+Gated channels
+• Most ion channels are gated, meaning that they open
+and close in response to some signals
+- Voltage-gated channels open and close in response to
+changes in membrane potential
+
+- Ligand-gated channels are triggered by the binding of certain
+substances to the channel protein
+- Mechanosensitive channels respond to mechanical forces
+acting on the membrane
+25
+
+Functions of ion channels
+• Ion channels play roles in many types of cellular
+communication, such as muscle contraction and electrical
+signaling of nerve cells
+• Ion channels are also needed for maintaining salt balance in
+cells and airways linking the lungs
+– A chloride ion channel, the cystic fibrosis transmembrane
+conductance regulator (CFTR), helps maintain the proper Cl–
+concentration in lungs; defects in the protein cause cystic fibrosis
+
+26
+
+Ion channels mediate neural transmission
+
+http://slideplayer.com/slide/3721804/
+
+27
+
+Active Transport
+❑ Active transport refers protein-mediated
+endergonic movement against the gradient,
+away from equilibrium.
+
+▪
+
+General aspects of active transport
+▪
+▪
+▪
+
+▪
+▪
+
+Energy requirement
+Directionality
+Functional importance
+
+Direct vs. indirect active transport
+Examples of active transport
+▪
+▪
+
+Na+/K+ ATPase
+Na+/glucose symporter
+28
+
+Active transport needs energy and
+is unidirectional
+•
+
+Active transport requires energy (such as from ATP hydrolysis) to
+move substances against their concentration gradients. Hence, many
+membrane proteins involved in active transport are called pumps.
+
+•
+
+Active transport has an intrinsic directionality and is unidirectional.
+
+•
+
+Active transport allows the creation and maintenance of an internal
+cellular environment that differs greatly from the surrounding
+environment
+- Uptake of essential nutrients
+- Removal of wastes
+- Maintenance of nonequilibrium concentrations of certain ions
+
+29
+
+Direct active transport
+•
+
+Direct active transport (or primary active transport): the
+accumulation of solute molecules on one side of the membrane is
+coupled directly to an exergonic chemical reaction (such as ATP or
+GTP hydrolysis)
+
+•
+
+Transport proteins driven by ATP hydrolysis are called transport
+ATPases or ATPase pumps, such as Na+/K+ ATPase.
+
+• Four types of transport ATPases have been identified. They differ in
+structure, mechanism, location, and roles
+-
+
+P-type (e.g. Na+/K+ ATPase )
+V-type
+F-type
+ABC-type
+30
+
+Membrane potential
+In a typical animal cell,
+
+[K+]inside/[K+]outside = 35:1
+[Na+]inside/[Na+]outside = 0.08:1
+
+https://en.wikipedia.org/wiki/Membrane_potential
+
+31
+
+The Na+/K+ Pump
+(direct active transport)
+
+•
+
+The Na+/K+ ATPase (or pump), uses hydrolysis of ATP to drive the
+transport of Na+ and K+ ions. This is responsible for the asymmetric
+distribution of ions across the plasma membrane of animal cells
+
+32
+
+Structure and allosteric feature of
+the Na+/K+ ATPase
+▪
+
+The pump is a tetrameric transmembrane
+protein with two a and two b subunits
+
+▪
+
+The a subunits contain binding sites for
+3 Na+ and 1 ATP on the cytoplasmic side,
+and 2 K+ on the external side
+
+▪
+
+3 Na+ are moved out and 2 K+ moved in
+per molecule of ATP hydrolysed.
+
+Figure 8-11, Becker’s World of the Cell, Eighth Edition
+
+33
+
+▪
+▪
+▪
+
+The Na+/K+ pump has two alternative conformational states, E1 and E2
+The E1 conformation is open to the inside of the cell and has high affinity for Na+ ions
+The E2 conformation is open to the outside of the cell and has high affinity for K+ ions
+
+34
+Figure 8-12, Becker’s World of the Cell, Eighth Edition
+
+Supplementary information
+
+Membrane Potentials
+
+https://courses.lumenlearning.com/wm-biology2/chapter/resting-membrane-potential/
+
+https://www.pharmacy180.com/article/cell-membrane-potential-3544/
+
+35
+
+Indirect active transport
+Indirect active transport relies on the simultaneous transport of two
+solutes. Favorable movement of one solute down its gradient drives the
+unfavorable movement of the other up its gradient
+Direct vs. Indirect Active Transport
+
+Figure 8-9, Becker’s World of the Cell, Eighth Edition
+
+36
+
+Indirect active transport is driven by
+ion gradients
+•
+
+Most cells continuously pump either sodium ions or protons out of the cell.
+(such as the Na+/K+ pump).
+
+•
+
+This Na+ or H + Ion gradients can be used for both export (antiport) as well
+as import (symport) of other ions.
+
+•
+
+Animals use the Na+ gradients for indirect transportation. The high
+extracellular concentration of Na+ causes their simultaneous inward
+movement down their gradients, which is a driving force for the uptake of
+sugars and amino acids.
+
+•
+
+Most other organisms (such as fungi and plants) rely on proton gradients
+
+•
+
+This is indirectly related to ATP because the Na+ or proton gradients is
+maintained by pump driven by ATP hydrolysis.
+37
+
+Na+/glucose symporter
+(indirect active transport)
+▪
+
+Although most glucose into and out of
+our cells occurs by facilitated diffusion
+(such as GLUT1), some cells use a
+Na+/glucose symporter
+
+▪
+
+The cells lining the intestine take up
+glucose and some amino acids even
+when their concentrations are much
+lower outside than inside the cells
+(against gradient)
+https://www.sciencedirect.com/science/article/pii/S000629521500578X
+
+▪
+
+The proteins responsible for sodium symport are sodium-dependent glucose
+transporters (or sodium-glucose linked transporter, SGLT)
+
+▪
+
+A steep Na+ gradient across the plasma membrane (maintained via the Na+/K+ pump)
+provides the energy.
+
+38
+
+Figure 8-13, Becker’s World of the Cell, Eighth Edition
+
+39
+
+❑
+
+❑
+
+Simple diffusion
+
+Down the concentration gradients
+
+▪
+
+O2 & CO2
+
+➢
+
+No energy is required
+
+▪
+
+Osmosis
+
+➢
+
+No protein is required
+
+➢
+
+Down the concentration gradients
+
+➢
+
+No energy is required (except CFTR)
+
+➢
+
+Transport protein is required
+
+➢
+
+Reversible transport process
+
+➢
+
+Up the concentration gradients
+
+Na+/K+ ATPase
+
+➢
+
+Energy is required
+
+▪ Indirect active transport
+
+➢
+
+Transport protein is required
+
+➢
+
+Unidirectional
+
+➢
+
+To maintain distinct internal
+environment
+
+Facilitated diffusion
+▪ By Carrier Protein
+▪
+▪
+
+Transport of glucose
+Exchange of Cl– and HCO3– ions
+
+▪ By Channel Protein
+▪
+▪
+▪
+
+❑
+
+➢
+
+Porin
+Aquaporin
+Ion channel
+▪ CFTR
+
+Active transport
+▪ Direct active transport
+▪
+
+▪
+
+Na+/glucose symporter
+
+40
+
+❑ The endomembrane system
+❑ Exocytosis & endocytosis
+▪
+▪
+▪
+
+Secretory pathway & exocytosis
+Endocytosis (receptor mediated)
+Coated vesicles and coat proteins
+
+41
+
+The Endomembrane System
+➢ Nuclear envelop
+▪ Endoplasmic
+Reticulum
+▪ Golgi apparatus
+▪ Vesicles
+▪ Vacuoles
+▪ Lysosome
+▪ Peroxisomes
+➢ Plasma membrane
+o Mitochondria
+o Chloroplasts
+
+Figure 12-1. Becker’s World of the Cell, Eighth Edition
+
+42
+
+ER is involved in the biosynthesis
+• Smooth ER is involved in lipid synthesis
+– In eukaryotic cells the ER is the primary source of membrane lipids
+– Smooth ER is also involved in drug detoxification, carbohydrate
+metabolism, calcium storage, and steroid siosynthesis.
+
+• Rough ER is involved in the protein synthesis and
+processing.
+‒ Ribosomes on the rough ER membrane synthesize both membranebound and soluble proteins
+‒ The processing process in rough ER include folding of polypeptides,
+assembly of multimeric protein complexes, and recognition and
+removal of misfolded proteins
+43
+
+Protein trafficking
+• Proteins synthesized in the rough ER must be directed to a
+variety of locations by transport vesicles
+– Catalase, hydrolases, peptide hormone, receptor
+
+• Each protein contains a specific “tag,” targeting it to a transport
+vesicle that will take it to the correct location
+• Depending on the protein and destination, a tag may be an
+amino acid sequence, a hydrophobic domain, or
+oligosaccharide side chain, or some other features
+
+44
+
+The Golgi complex for protein processing
+• Golgi complex functions for processing and packaging
+secretory proteins, and complex polysaccharide synthesis.
+• The protein contents of vesicles from the rough ER are
+modified and processed in the Golgi complex, such as with
+glycosylation.
+
+45
+
+Secretory pathways
+•
+
+Secretory pathways move proteins from the rough ER
+through the Golgi complex to secretory vesicles or granules
+
+•
+
+Animal cells secrete hormones, mucus, milk proteins, and
+digestive enzymes this way
+
+•
+
+Plant and fungal cells secrete enzyme and structural proteins
+for the cell wall
+
+46
+
+The process of exocytosis
+1.
+
+Vesicles containing products for secretion
+move to the cell surface
+
+2.
+
+The membrane of the vesicle fuses with
+the plasma membrane
+
+3.
+
+Fusion with the plasma membrane
+discharges the contents of the vesicle
+
+4.
+
+The membrane of the vesicle becomes
+part of the cell membrane
+
+Figure 12-12, Becker’s World of the Cell, Eighth Edition
+
+47
+
+Example
+
+Glucose-stimulated insulin secretion
+▪
+▪
+▪
+▪
+▪
+
+In pancreatic β-cells, glucose intake leads to the generation of ATP
+Subsequently close ATP-sensitive K+-channels.
+This causes membrane depolarisation
+Voltage-gated Ca2+-channels will open and permit Ca2+ entry
+The increased intracellular Ca2+ triggers insulin secretion.
+
+
+
+
+
+
+
+
+https://www.frontiersin.org/articles/10.3389/fphys.2013.00386/full
+
+48
+
+Exocytosis
+❑ In exocytosis, proteins in a vesicle are released to the exterior of the
+cell as the vesicle fuses with the plasma membrane
+
+49
+Figure 12-8, Becker’s World of the Cell, Eighth Edition
+
+Endocytosis
+❑ Endocytosis, the process by which cells internalize external materials
+
+50
+Figure 12-8, Becker’s World of the Cell, Eighth Edition
+
+Receptor-mediated endocytosis
+• Cells acquire some substances by receptor-mediated
+endocytosis (or clathrin-dependent endocytosis)
+• Cells use receptors on the outer cell surface to
+internalize many macromolecules
+
+• Mammalian cells can ingest hormones, growth
+factors, serum proteins, enzymes, cholesterol,
+antibodies, viruses, bacterial toxins
+51
+
+Process of receptor-mediated endocytosis
+❖
+
+The endocytosis process is very rapid and coated pits can be very numerous in cells
+
+Figure 12-16, Becker’s World of the Cell, Eighth Edition
+
+52
+
+After internalization …
+•
+•
+•
+
+Clathrin coat will be dissembled and recycled
+Uncoated vesicles fuse with vesicles budding from the trans-Golgi network
+(TGN) to form early endosomes (pH 6-6.5).
+Early endosomes continue to acquire lysosomal proteins from the TGN and
+mature to form late endosomes (pH 5-5.5).
+– As the endosome matures, The pH gradually lowers, facilitated
+by an ATP-dependent proton pump.
+– The lower pH dissociates ligands and receptors, allowing receptors to be
+returned to the membrane
+2. Recycle receptor
+1. Recycle clathrin coat
+
+53
+https://animalcellbiology.wordpress.com/
+
+Endocytosis
+and afterwards
+
+Late endosomes eventually
+develop into lysosomes (pH 4.5-5).
+--- Some ligand-receptor complexes
+are degraded in lysosomes
+
+3. Degradation of ligands
+
+54
+http://www.uta.edu/biology/wilk/classnotes/cellphys/endocytosis.pdf
+
+https://animalcellbiology.wordpress.com/
+
+Coated vesicles and coat proteins
+•
+
+Most vesicles in protein and lipid transport are called coated
+vesicles
+
+•
+
+The type of coat protein on a vesicle helps to determine the
+destination of the vesicle
+–
+–
+–
+–
+
+COPII-coated vesicles have a role in transport from the ER to the Golgi
+COPI-coated vesicles are involved in retrograde transport from the Golgi
+back to the ER.
+Clathrin-coated vesicles are involved in receptor-mediated endocytosis
+Caveolin-coated vesicles are caveolae are involved in Clathrinindependent endocytosis
+
+55
+
+Membrane Trafficking
+
+▪ “Tag” & signal peptide in cargo proteins targeting it to a
+transport vesicle
+▪ Vesicles are bound by single membrane
+▪ Vesicles have specific membrane proteins as their identity
+▪ Movement of vesicles rely on microtubules
+
+Figure 12-8, Becker’s World of the Cell, Eighth Edition
+
+56
+
+❑ Protein targeting processes
+❑ Signal peptide for protein targeting
+❑ Ectopic expression of fusion protein
+
+57
+
+Protein targeting processes
+1.
+
+From cytosol to ER—co-translational transport
+
+2.
+
+From cytosol to organelles—post-translational transport (proteins made in
+the cytosol→ nucleus, chloroplast, mitochondria, peroxisome, etc)
+
+3.
+
+From ER to Golgi to vacuole or plasma membrane and secreted — vesicular
+transport
+2
+2
+
+Each protein to be
+targeted needs to cross
+at least one membrane
+barrier.
+
+Nucleus
+
+1
+
+3
+Modified from
+http://www.intechopen.com/books/oxidativestress-and-chronic-degenerative-diseases-a-rolefor-antioxidants/cell-nanobiology
+
+58
+
+Signal for protein targeting
+Signal and receptor: Each targeting process needs a “address label”—
+peptide sequence on the protein to tell where this protein goes. A
+receptor/machinery needs to recognize that “label/signal” and deliver the
+protein to the right place.
+The signal peptide is often a hydrophobic stretch of 20-40 amino acids at
+the N-terminus of the protein. Cleaved after translocation into ER or other
+target organelles.
+
+mRNA
+59
+
+Signal for getting into the ER
+❑ Single N-terminal and transmembrane (TM) Segment
+
+60
+
+Ectopic expression
+Foreign DNA
+carrying a gene
+
+DNA
+RNA
+
+Protein
+Mammalian cells
+
+61
+
+Expression vector design
+Native Proteins
+
+Fusion Proteins
+
+62
+
+Ectopic expression of protein targeting to
+particular cell compartments
+CMV Promoter
+
+ER-signal
+
+DsRed
+
+CMV Promoter
+
+H2B (NLS)
+
+GFP
+
+http://olympusmicro.com/moviegallery/confocal/u2dsreder
+/index.html
+
+http://openi.nlm.nih.gov/detailedresult.php?img=3218940_bcr2884-1&req=4
+
+http://www.bloodjournal.org/content/112/8/3164?sso-checked=true
+
+63
+
+❑ Cell disruption
+❑ Separation of different organelles
+▪
+
+Differential centrifugation
+
+▪
+
+Density gradient centrifugation
+
+❑ Purification of organelles/vesicles
+using specific antibodies
+
+64
+
+Breaking open plasma membranes of cells
+❑ Cells are suspended in isotonic sucrose solution
+(0.25 M)
+▪
+▪
+
+Sonication
+Homogenization
+
+❑ Cells in hypotonic solution - rupture of cell
+membranes
+▪
+
+10mM KCl, (~0.075% )
+
+Concentration of NaCl in normal saline?
+65
+
+Differential centrifugation
+❑ Purification of cellular organelles based on differences of
+organelles in gravity, which are caused by differences in
+their sizes, shapes and densities.
+
+Nuclei
+
+Mitochondria
+
+Membranes, ER
+
+Centrifuge at LOW SPEED
+
+Centrifuge at MODERATE SPEED
+
+Centrifuge at HIGH SPEED
+
+66
+
+Purification of cellular organelles by
+differential centrifugation
+
+67
+
+Sucrose gradient centrifugation
+❑ The densest components move fastest down the tube and
+stops at the sucrose density equal to its own.
+
+Collection of fractionated cell components
+
+http://www.bio-protocol.org/e1611
+
+68
+
+❑ The endomembrane
+system
+▪
+▪
+▪
+▪
+
+Nuclear envelop
+ER; Golgi; Vesicles
+Endosome; Lysosome
+Plasma membrane
+
+❑ Exocytosis & endocytosis
+▪
+
+Secretory pathway &
+exocytosis
+
+▪ ER→ Goldi → Plasma
+membrane
+
+▪
+
+Receptor mediated
+endocytosis
+▪ Uncoated vesicles
+▪ Early & late endosomes
+▪ Lysosome
+
+▪
+
+Coated vesicles and coat
+proteins
+▪ COPI; COPII
+▪ Clathrin; Caveolin
+
+❑ Protein targeting processes
+▪
+
+Co-translational
+▪
+
+▪
+
+Post-translational
+▪
+
+▪
+
+Cytosol → ER
+Cytosol →nucleus, mitochondria,
+chloroplast, peroxisomes
+
+Vesicular transport
+▪ ER→ Goldi → Plasma membrane
+
+❑ Signal peptides for protein
+targeting
+▪
+
+Hydrophobic, 20-40 aa
+
+❑ Ectopic expression of fusion
+protein
+▪
+▪
+▪
+
+Foreign gene DNA → mRNA →
+protein
+Tag reporter protein with
+targeting signals
+Tag candidate protein with
+reporter
+
+❑
+
+❑
+
+Ion channels vs. ion pumps
+▪
+
+A channel’s ion-specific pore conducts dissipative ion flow
+down the gradient at a high rate, 107~108 S-1
+
+▪
+
+ATPase pump move ion against their gradient far more slowly,
+102 S-1
+
+Transport of H2O via simple diffusion vs. facilitated
+diffusion
+▪ Osmosis is the primary mechanism of H2O transport across all
+biological membranes.
+▪ Facilitated diffusion of H2O relies on aquaporins. They facilitate
+rapid, highly selective water transport, such as that in kidney,
+thus allowing the cell to regulate its volume and internal
+osmotic pressure.
+70
+
+1. Which of the following processes would be most likely to occur in the Golgi
+complex?
+A) synthesis of steroids
+B) production and packaging of lipids
+C) glycosylation of proteins
+D) synthesis of DNA
+E) detoxification of drugs
+2. Which organelle has only a single membrane around it?
+A) ribosome
+B) nucleus
+C) mitochondrion
+D) chloroplast
+E) Peroxisome
+3. Microfilaments function in
+A) muscle contraction.
+B) cytoplasmic streaming.
+C) cell division.
+D) maintenance of cellular shape in animal cells.
+E) all of the above
+
+71
+
+4. The Na+/K+ pump actively moves
+A) 2 Na+ in, 3 K+ out.
+B) 2 Na+ out, 3 K+ in.
+C) 3 Na+ in 2 K+ out.
+D) 3 Na+ out, 2 K+ in.
+E) 1 Na+ out, 1 K+ in.
+5. An example of indirect active transport is
+A) Na+/K+ pumps.
+B) P-type ATPases.
+C) ABC-type ATPases.
+D) Na+/glucose symport.
+E) Both B and C.
+6. Which sequence reflects the locations that a secretory protein will visit on its
+way from its production to its secretion outside the cell?
+A) rough ER, secretory vesicle, Golgi complex, ER vesicle
+B) rough ER, Golgi complex, smooth ER, ER vesicle
+C) nucleus, Golgi complex, rough or smooth ER, secretory vesicle
+D) smooth ER, rough ER, Golgi complex, secretory vesicle
+E) rough ER, ER vesicle, Golgi complex, secretory vesicle
+
+72
+
+
+
+Please elaborate the functions of cell membrane in a typical
+animal cell, and how it creates an internal environment for
+the cell.
+
+
+
+Please elaborate the three mechanisms involved in cellular
+transport with examples.
+
+73
+
+
